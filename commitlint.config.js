@@ -12,6 +12,6 @@
  */
 
 // controllers
-const scope = ['search']
+const scope = ['core', 'search']
 
 module.exports = {extends: ['@commitlint/config-conventional']}
